@@ -6,7 +6,7 @@
 
 
   
-  ✔ Known as: ***ankush gupta*** <br>
+  ✔ Known as: ***Ankush Gupta*** <br>
   ✔ 🔭 I’m currently working as a Software Developer at Navgurukul.<br>
   ✔ 🌱 But my learning is near to **everything 😃**<br>
   ✔ Ask me anything you want, If I am alive I will definitely answer 😉<br>
@@ -20,12 +20,7 @@
   <br>
   <table>
     <tr>
-      <td align="center" width="96">
-        <a>
-          <img src="https://github.com/giribabu22/giribabu22/assets/102803078/d2dff2a8-13d4-4bb2-9d92-6bf93cbda0f4" width="40"/>
-        </a>
-        <br>Python
-      </td>
+
       <td align="center" width="96">
         <a>
           <img src="https://github.com/giribabu22/giribabu22/assets/102803078/815ce273-f08c-4006-9e59-129986fc0a4b" width="40"/>
@@ -57,10 +52,10 @@
   <H2> Coding Profiles   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" align="center"> &nbsp; </H2>
   <br>
   <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajaybedwall&show_icons=true&theme=tokyonight" width="450" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anku2323&show_icons=true&theme=tokyonight" width="450" />
     <br>
     <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ajaybedwall&theme=dark&hide_border=true"  width="450" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anku2323&theme=dark&hide_border=true"  width="450" />
   </div>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
